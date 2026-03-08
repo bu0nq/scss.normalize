@@ -4,8 +4,8 @@
     "description": "Package for integrating SCSS.Normalize",
     "keywords": [
         "scss",
-        "style",
         "reset",
+        "style",
         "frontend",
         "normalize"
     ],
