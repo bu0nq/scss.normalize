@@ -1,7 +1,7 @@
 {
-    "name": "@bu0nq/scss.normalize",
-    "version": "0.2.0",
-    "description": "Package for integrating SCSS.Normalize",
+    "name": "@bu0nq/scss-normalize",
+    "version": "0.1.0",
+    "description": "Package for integrating SCSS Normalize",
     "keywords": [
         "scss",
         "style",
@@ -9,32 +9,32 @@
         "frontend",
         "normalize"
     ],
-    "license": "MIT",
-    "author": {
-        "name": "bu0nq",
-        "email": "hello@bu0nq.ru"
-    },
     "main": "normalize.scss",
     "files": [
         "normalize.scss"
     ],
+    "license": "MIT",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
     "exports": {
         ".": {
             "sass": "./normalize.scss",
             "default": "./normalize.scss"
         }
     },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+    "author": {
+        "name": "bu0nq",
+        "email": "hello@bu0nq.ru"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/bu0nq/scss.normalize.git"
+        "url": "git+https://github.com/bu0nq/scss-normalize.git"
     },
     "bugs": {
-        "url": "https://github.com/bu0nq/scss.normalize/issues"
+        "url": "https://github.com/bu0nq/scss-normalize/issues"
     },
-    "homepage": "https://github.com/bu0nq/scss.normalize#readme",
+    "homepage": "https://github.com/bu0nq/scss-normalize#readme",
     "publishConfig": {
         "access": "public"
     }

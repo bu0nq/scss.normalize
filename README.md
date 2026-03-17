@@ -1,9 +1,9 @@
-# SCSS.Normalize
+# SCSS Normalize
 
-Package for integrating `SCSS.Normalize` in a web environment.
+Package for integrating `SCSS Normalize` in a web environment.
 
-![npm](https://img.shields.io/npm/v/@bu0nq/scss.normalize?style=for-the-badge)
-![npm](https://img.shields.io/npm/dt/@bu0nq/scss.normalize?style=for-the-badge)
+![npm](https://img.shields.io/npm/v/@bu0nq/scss-normalize?style=for-the-badge)
+![npm](https://img.shields.io/npm/dt/@bu0nq/scss-normalize?style=for-the-badge)
 ___
 
 ## Installation
@@ -11,5 +11,5 @@ ___
 This package can be deployed automatically using NPM:
 
 ```
-npm i @bu0nq/scss.normalize
+npm i @bu0nq/scss-normalize
 ```
